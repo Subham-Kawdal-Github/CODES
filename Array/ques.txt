@@ -1,0 +1,71 @@
+Question : Sort the Array 0 and 1
+
+Given an integer array A that contains only integers 0 and 1. Write a function to sort this array. Find a solution which scans the array only once. Don't use extra array. You need to change in the given array itself. So no need to return or print anything.
+
+Input format :
+
+Sample Input :
+
+7
+
+0 1 1 0 1 0 1
+
+Sample Output :
+
+0 0 0 1 1 1 1
+
+
+
+
+
+Question: 
+
+ Dutch National Flag Problem Also Called Sort Color Problem : (https://leetcode.com/problems/sort-colors/)
+
+According to the Wiki The Dutch national flag problem (DNF) is a programming problem proposed by Edsger. The flag of the NeitherLands consists of three colors: red, white and blue. Given balls of these three colors arranged randomly in a line (the actual number of balls does not matter), the task is to arrange them such that all balls of the same color are together and their collective color groups are in the correct order.
+
+Given an integer array containing only 0s, 1s and 2s. Write a solution to sort this array using one scan only. You need to change in the given array itself. So no need to return or print anything.
+
+Input format :
+
+Line 1 : Integer n (Array Size)
+
+Line 2 : Array elements (separated by space)
+
+Sample Input:
+
+7
+
+0 1 2 0 2 0 1
+
+Sample Output:
+
+0 0 0 1 1 2 2
+
+
+
+Question : Rotate an Array (https://leetcode.com/problems/rotate-array/)
+
+Given an array, rotate the array to the right by k steps, where k is non-negative.
+Input: nums = [1,2,3,4,5,6,7], k = 3 Output: [5,6,7,1,2,3,4] Explanation: rotate 1 steps to the right: [7,1,2,3,4,5,6] rotate 2 steps to the right: [6,7,1,2,3,4,5] rotate 3 steps to the right: [5,6,7,1,2,3,4]
+
+
+---------------------------------------------------------------------------
+
+Q1. Leet Code Question - How Many Numbers are Smaller than the Current Number
+https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+
+Q2.  Questions on Window Sliding (Easy)
+a). Max Element of SubArray Sum.
+(Max Sum) in all Sub Array
+b). Sum is equal to given sum of kth Sub Array.
+c). Find the Frequency of Sum in given Sub Array of kth Size.
+d. Find the Frequency of an Element in Given kth Sub Array.
+Q3. Next Greater Element III - Leet Code (https://leetcode.com/problems/next-greater-element-iii/)
+
+
+----------------------------------------------------------------------------
+
+Reverse Words in a String - Leetcode 151 (https://leetcode.com/problems/reverse-words-in-a-string/)
+Run Length Encoding (https://practice.geeksforgeeks.org/problems/run-length-encoding/1)
+String compression Problem (https://leetcode.com/problems/string-compression/)
