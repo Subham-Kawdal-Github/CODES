@@ -1,0 +1,25 @@
+Element Search in Array (First Index)
+Last Element Search in Array e.g arr= {10,20,30,20,10,90} 20 - Last (Index). Hint : try with the same approach u use in First Index. (Stack Fall)
+Show All the Occurance of Found Element in Array
+Pattern Right Pyramid , Left Mirror , Diamond Pattern
+Number Pattern , Alphabet Pattern eg
+1
+22
+333
+4444.     
+
+1
+23
+456
+78910
+
+A
+AB
+ABC
+ABCD
+ABCDE
+
+A
+BB
+CCC
+DDDD
